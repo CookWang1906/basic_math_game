@@ -1,4 +1,4 @@
-# Basic_Math_Game
+# Basic math game
 
 ![image](https://github.com/CookWang1906/Basic_Math_Game/assets/148769157/439e85d1-87d0-4e49-82ef-dfedaffce95d)
 
